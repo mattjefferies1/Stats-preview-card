@@ -126,7 +126,7 @@ body {
 @media (min-width: 1070px) {
   .card {
     flex-direction: row-reverse;
-    max-width: 1024px;
+    max-width: 1070px;
   }
   .card-content {
     width: 50%;
