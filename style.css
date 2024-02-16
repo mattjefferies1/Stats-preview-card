@@ -123,14 +123,14 @@ body {
   color: hsl(228, 45%, 44%); 
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1070px) {
   .card {
     flex-direction: row-reverse;
     max-width: 1024px;
   }
   .card-content {
     width: 50%;
-    padding: 0 6rem 0 4rem;
+    padding: 2rem 6rem 2rem 4rem;
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -142,8 +142,8 @@ body {
   }
 
   .description {
-    font-size: 0.82rem;
-    padding: 1rem 0;
+    font-size: 0.9rem;
+    padding: 1.5rem 0;
   }
 
   .stats-box {
